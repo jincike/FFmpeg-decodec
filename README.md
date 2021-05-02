@@ -1,2 +1,2 @@
 # FFmpeg
-FFmpeg实操函数练习
+FFmpeg+VS2015实操函数练习
